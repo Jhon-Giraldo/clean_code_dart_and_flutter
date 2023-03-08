@@ -8,10 +8,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Clean Code en Dart y Flutter',
+      title: 'Clean Code Y Principios Solid en Dart',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Clean Code'),
+          title: const Text('Clean Code y Principios Solid'),
         ),
         body: const Center(
           child: Text('Orden del Fénix'),
